@@ -1,0 +1,8 @@
+html {
+    text-align: center;
+}
+ol, ul {
+    text-align: left;
+    padding-left: 45%;
+    padding-right: 25%;
+}
